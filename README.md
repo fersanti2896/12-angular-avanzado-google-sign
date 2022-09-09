@@ -1,4 +1,5 @@
 # Hospital App - Backend Server - Google Sign-In
+___
 
 En esta sección se tomó lo siguiente, el cual está especializado en la implementación de Google Sign-in en nuestra Backend Server:
 
@@ -8,3 +9,7 @@ En esta sección se tomó lo siguiente, el cual está especializado en la implem
 - Generación de un Token desde el front-end.
 - Validación de un Token en nuestro back-end. 
 - Tip para generar la documentación de nuestros servicios automáticamente.
+
+Publicación de la documentación del backend para ejecutarse en Postman: 
+
+    https://documenter.getpostman.com/view/11270351/VVBZQ49e
